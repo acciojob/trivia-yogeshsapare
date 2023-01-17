@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.new{
+	width:600px;
+	margin:10px;
+	border-left:8px solid green;
+	background-color:#f8fffe"";
+	font-weight:bold;
+}
